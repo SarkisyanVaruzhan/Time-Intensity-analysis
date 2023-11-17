@@ -5,8 +5,10 @@ To use this file simply download the TimeIntensityGUI.html file and open it in y
 
 Screeshots of the GUI:
 
-![image](https://github.com/SarkisyanVaruzhan/Time-Intensity-analysis/assets/53826578/15b38e2c-137b-4a3c-b78f-706117eb2469)
-![image](https://github.com/SarkisyanVaruzhan/Time-Intensity-analysis/assets/53826578/67974aef-702a-4eaf-9be6-77b814c88a32)
-![image](https://github.com/SarkisyanVaruzhan/Time-Intensity-analysis/assets/53826578/4678940e-e9bb-4458-9d89-b0cec1b63ac8)
+![image](https://github.com/SarkisyanVaruzhan/Time-Intensity-analysis/assets/53826578/da8381f9-9971-429d-9c5c-6698a0f1fcdc)
+![image](https://github.com/SarkisyanVaruzhan/Time-Intensity-analysis/assets/53826578/eaaef1ec-cabe-4cd6-9350-e8eb5753bdd9)
+![image](https://github.com/SarkisyanVaruzhan/Time-Intensity-analysis/assets/53826578/802e60db-7194-4af8-9d3b-378e51d3d94c)
+
+
 
 
